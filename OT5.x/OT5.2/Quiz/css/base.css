@@ -1,0 +1,60 @@
+/*
+* The Internet History Quiz
+* By Jordan Lewis
+* © Jordan Lewis 2014
+*/
+.restart {
+	background-color: #ff6a00;
+	color: #ffffff;
+	text-align: center;
+	width: 100px;
+	height: 30px;
+	position: absolute;
+	top: 260px;
+	left: 10px;
+}
+.restart:hover {
+	background-color: #df4a00;
+}
+
+.background {
+	background-color:#f6f6f6;
+	width:500px;
+	height: 300px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+h2 {
+	text-align: center;
+	margin: auto;
+}
+
+h3 {
+	position: absolute;
+	top: 250px;
+	left: 390px;
+}
+
+h4 {
+	text-align: center;
+	position: absolute;
+	top: 15px;
+	left: 10px;
+	width: 480px;
+}
+
+.answer {
+	width: 225px;
+	height: 50px;
+	padding: 5px;
+	background-color: #ff6a00;
+	color: #ffffff;
+}
+.answer:hover {
+	background-color: #df4a00;
+}
+.answer p {
+	text-align: center;
+}
